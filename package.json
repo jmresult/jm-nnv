@@ -1,7 +1,7 @@
 {
-  "name": "jm-nnv",
-  "version": "1.0.0",
-  "description": "Yet another powerful node sms gateway...",
+  "name": "jmtech-nnv",
+  "version": "1.0.1",
+  "description": "Yet another powerful JmTech Node Software...",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,6 +26,6 @@
     "sqlite3": "^5.0.8"
   },
   "bin": {
-    "jmtech-nv": "bin/vn.js"
+    "jmtech-nv": "bin/verify.js"
   }
 }
