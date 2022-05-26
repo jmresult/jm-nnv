@@ -1,5 +1,5 @@
 {
-  "name": "jmtech-node-sms-gateway",
+  "name": "jm-nnv",
   "version": "1.0.0",
   "description": "Yet another powerful node sms gateway...",
   "main": "index.js",
