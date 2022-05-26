@@ -1,0 +1,31 @@
+{
+  "name": "jmtech-node-sms-gateway",
+  "version": "1.0.0",
+  "description": "Yet another powerful node sms gateway...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmresult/jm-nnv.git"
+  },
+  "author": "Jm Tech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmresult/jm-nnv/issues"
+  },
+  "homepage": "https://github.com/jmresult/jm-nnv#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "cli-progress": "^3.10.0",
+    "colors": "^1.4.0",
+    "deta": "^1.1.0",
+    "loading-cli": "^1.1.0",
+    "node-bash-title": "^0.0.2",
+    "sqlite3": "^5.0.8"
+  },
+  "bin": {
+    "jmtech-nv": "bin/vn.js"
+  }
+}
